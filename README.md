@@ -15,4 +15,4 @@ Use these environment variables to run the agent.
 | AZP_AGENT_NAME       | Agent name (default value: the container hostname).          |
 | AZP_POOL             | Agent pool name (default value: `Default`).                  |
 | AZP_WORK             | Work directory (default value: `_work`).                     |
-| TARGETARCH           | Defines the CPU architecture of the target. Select between `linux-x64` (default) or `linux-arm64`. |
+| TARGETARCH           | Defines the CPU architecture of the target. Select between `linux-x64` (default), `linux-arm64` or `linux-arm`. |
